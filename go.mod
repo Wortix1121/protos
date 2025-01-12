@@ -1,4 +1,4 @@
-module protos
+module github.com/Wortix1121/protos
 
 go 1.23.4
 
